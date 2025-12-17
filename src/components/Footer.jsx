@@ -11,6 +11,70 @@ export default function Footer() {
         </div>
 
         <div className="bg-[#252420] h-[5px]"></div>
+        <div className="flex">
+          <ul>
+            <li>
+              <a href="">Bosh sahifa</a>
+            </li>
+            <li>
+              <a href="">Kitoblar</a>
+            </li>
+            <li>
+              <a href="">Aksiyalar</a>
+            </li>
+            <li>
+              <a href="">Yangiliklar</a>
+            </li>
+            <li>
+              <a href="">Kontaktlar</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+            <li>
+              <a href=""></a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   );
