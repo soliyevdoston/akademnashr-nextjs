@@ -16,7 +16,7 @@ export default function Hero() {
               yozilgan bo‘lib, ularga kitobda ko‘rsatilgan QR kod orqali o‘tish
               mumkin.
             </p>
-            <button className="bg-[#FF7500] text-[13px] mt-[32px]  py-[12px] px-[24px] rounded-[4px] text-white font-bold mb-[78px]">
+            <button className="bg-[#FF7500] hover:bg-[#92540d] text-[13px] mt-[32px]  py-[12px] px-[24px] rounded-[4px] text-white font-bold mb-[78px]">
               Ro'yhatdan o'tish
             </button>
           </div>

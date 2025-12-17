@@ -31,7 +31,7 @@ export default function Header() {
               </li>
             </ul>
             <div>
-              <button className="bg-[#FF7500] text-[13px] ml-[32px] py-[12px] px-[24px] rounded-[4px] text-white font-bold ">
+              <button className="bg-[#FF7500] hover:bg-[#92540d] text-[13px] ml-[32px] py-[12px] px-[24px] rounded-[4px] text-white font-bold ">
                 Ro'yhatdan o'tish
               </button>
             </div>
