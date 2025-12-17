@@ -49,11 +49,11 @@ export default function Cta() {
       </div>
       <div className="relative max-w-[1100px] ml-[170px] mx-auto flex cta bg-[#252420]   ">
         <div className="flex">
-          <div>
+          <div className="pl-[64px] py-[64px] w-[440px]">
             <h2 className="text-white text-[40px] font-bold">
-              Bolalar kitoblari uchun <br /> ajoyib aksiya!
+              Bolalar kitoblari uchun ajoyib aksiya!
             </h2>
-            <p className="text-white">
+            <p className="text-white pb-[12px] pt-[24px]">
               Ertaklar, she’rlar, sarguzasht asarlar, fikrlashni o’stirish uchun
               turli mashq qo’llanmalari va komikslar.
             </p>
@@ -61,7 +61,7 @@ export default function Cta() {
               Aksiyadagi eng katta to’plamda 50 ta kitobni 350 ming so’mga
               (aslida 383 ming so’m) sotib olishingiz mumkin.
             </p>
-            <button className="bg-[#FF7500] hover:bg-[#92540d] text-[13px] mt-[32px]  py-[12px] px-[24px] rounded-[4px] text-white font-bold mb-[78px]">
+            <button className="bg-[#FF7500] hover:bg-[#92540d] text-[13px] mt-[32px]  py-[12px] px-[24px] rounded-[4px] text-white font-bold ">
               Ro'yhatdan o'tish
             </button>
           </div>
