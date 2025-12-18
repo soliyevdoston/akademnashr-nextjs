@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <div className="bg-[#252420] ">
       <div className="max-w-[1440px] mx-auto">
-        <div className=" max-w-[1100px] ml-[170px] mx-auto flex">
+        <div className=" max-w-[1100px]  mx-auto flex">
           <div className="w-[387px] pt-[80px]  ">
             <div className="w-[80px] h-[3px] bg-[#FF7500]"></div>
             <h2 className="text-white  text-[40px] font-bold pt-[43px]">
@@ -21,7 +21,7 @@ export default function Hero() {
             </button>
           </div>
           <img
-            className="absolute right-[170px] mt-[40px] w-[510px] h-[510px] rounded-[8px] shadow-[20px_22px_0px_0px_rgba(255,117,0,0.8)]
+            className="absolute ml-[600px]  mt-[40px] w-[510px] h-[510px] rounded-[8px] shadow-[20px_22px_0px_0px_rgba(255,117,0,0.8)]
 
 "
             src={BookImg.src}
