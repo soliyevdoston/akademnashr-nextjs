@@ -5,7 +5,7 @@ export default function Header() {
     <div>
       <div className="h-[5px] bg-[#FF7500] "></div>
       <div className="max-w-[1440px] mx-auto ">
-        <div className="w-[1100px] ml-[170px]   py-[16px] flex justify-between items-center ">
+        <div className="w-[1100px] mx-auto  py-[16px] flex justify-between items-center ">
           <img src={Logo.src} alt="Logo" className="w-[227px]" />
           <div className="flex  py-[10px] items-center ">
             <ul className="flex gap-[32px] ">

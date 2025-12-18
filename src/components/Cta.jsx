@@ -6,7 +6,7 @@ import CtaImg from "@/images/sale-img.svg";
 export default function Cta() {
   return (
     <div className="max-w-[1440px] mx-auto pt-[200px]">
-      <div className="max-w-[1100px] ml-[170px] mx-auto flex">
+      <div className="max-w-[1100px]  mx-auto flex">
         <div className="why mb-[210px]">
           <div className="w-[80px] h-[3px] bg-[#FF7500]"></div>
           <h1 className="text-[72px] font-bold  ">
